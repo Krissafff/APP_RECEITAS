@@ -1,16 +1,7 @@
-# telas_navegacao
+# APP de Receitas em Flutter
 
-A new Flutter project.
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![tela 1](https://user-images.githubusercontent.com/79226722/198270572-942e8435-aab6-4148-9bf3-051ee34c0fa4.png)
+![tela 2](https://user-images.githubusercontent.com/79226722/198270575-0d859b63-d910-4489-8653-9dd20958c018.png)
+![tela 3](https://user-images.githubusercontent.com/79226722/198270579-908799c1-6c4a-4926-9f06-518970ca9545.png)
+![tela 4](https://user-images.githubusercontent.com/79226722/198270582-7d98b2ce-398e-4b9d-9811-d33ea7ae0065.png)
